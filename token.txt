@@ -1,4 +1,0 @@
-MTA3MzM3ODAzMTM5OTMzODAxNA.Gtl7k5.tDr2jue2f39CD9Cq6v36EomxZgEVBIEdR3mo2o
-
-
-https://discord.com/api/oauth2/authorize?client_id=1073378031399338014&permissions=8&scope=bot
