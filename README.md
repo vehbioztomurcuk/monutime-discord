@@ -1,4 +1,4 @@
-﻿# !yardım
+﻿# !yardim
  # https://youtu.be/itaownItIHQ
 
 **!monu**
