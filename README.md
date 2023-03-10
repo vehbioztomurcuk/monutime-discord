@@ -5,7 +5,7 @@
 
 `Anlık zamana 90 dakika ekleyerek bir sonraki monu çıkış saatini belirler. Monu kesildiği an yazılmalıdır.`
 
-**!monu2**
+**!dv2monu**
 
 `!monu komutunun aynısı Dv2 için`
 
