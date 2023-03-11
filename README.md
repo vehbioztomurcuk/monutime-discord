@@ -11,7 +11,7 @@
 
 **!monu-x**
 
-`Monu saatini x dakika çıkararak söyler. Ör: !monu-5 anlık zamana 90 yerine 85 dakika ekler. (aynısı !monu2-x için de geçerlidir)`
+`Monu saatini x dakika çıkararak söyler. Ör: !monu-5 anlık zamana 90 yerine 85 dakika ekler.`
 
 **!monureset**
 
